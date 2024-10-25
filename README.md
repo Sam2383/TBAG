@@ -1,0 +1,1 @@
+My first project! It's a simple adventure game where the gameplay loop is determined by the text you put into the terminal. Making the wrong decision at times can be fatal. However, make the right ones and you earn your freedom from this accursed place.
